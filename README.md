@@ -1,5 +1,5 @@
 # Webpage-Optimization
-In this Project I aimed to rafactor the code to include smeantic elemnts for easier readability, such as replacing <div> elements with more descriptive elements.
+In this Project I aimed to refactor the code to include semantic elements for easier readability, such as replacing <div> elements with more descriptive elements.
 
 As someone new to coding this code refactor proved to be a real challenge, as I  was removing the non-semantic elements, I also had to research the Semantic elements I was inserting to make sure I was using the right elements. I also had to ensure the coding was easily readable if someone else were to refactor the code to further optimize the webpage.
 
